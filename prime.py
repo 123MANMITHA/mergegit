@@ -1,4 +1,4 @@
-low, high = 2, 10
+low, high = 50,100
 primes = [2]
 
 for num in range(low, high + 1):
